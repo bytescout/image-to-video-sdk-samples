@@ -1,0 +1,67 @@
+## Index of source code examples
+
+
+\ASP.NET
+\C#
+\C++
+\VB.NET
+\VB6
+\VBScript
+\ASP.NET\Make Slideshow From Files In Folder (VB)
+\ASP.NET\Make Slideshow From Uploaded Files (VB)
+\ASP.NET\Simple Slideshow (C#)
+\ASP.NET\Simple Slideshow (VB)
+\C#\2x Speed by Parallel Generation
+\C#\60 standard 2D transition effects
+\C#\70 advanced 3D transition effects
+\C#\Add Image From Buffer
+\C#\Background Color
+\C#\Background Picture
+\C#\Batch Video Generation
+\C#\Conversion Progress
+\C#\Conversion Progress GUI
+\C#\Full Featured Demo
+\C#\Multiple Videos At Once
+\C#\Registration Free Deployment
+\C#\Replace Audio
+\C#\Set MP3 Audiotrack
+\C#\Simple Slideshow
+\C#\Slide Effects
+\C#\Transition Effects
+\C#\WEBM Transition Effects
+\C++\Slideshow-VS2005
+\C++\Slideshow-VS2010
+\C++\WebM Slideshow-VS2005
+\VB.NET\2x Speed by Parallel Generation
+\VB.NET\60 standard 2D transition effects
+\VB.NET\70 advanced 3D transition effects
+\VB.NET\Add Image From Buffer
+\VB.NET\Background Color
+\VB.NET\Background Picture
+\VB.NET\Batch Video Generation
+\VB.NET\Conversion Progress
+\VB.NET\Conversion Progress GUI
+\VB.NET\Full Featured Demo
+\VB.NET\Multiple Videos At Once
+\VB.NET\Set MP3 Audiotrack
+\VB.NET\Simple Slideshow
+\VB.NET\Slide Effects
+\VB.NET\Transition Effects
+\VB.NET\WEBM output
+\VB6\Simple
+\VB6\WebM output
+\VBScript\67 standard transition effects
+\VBScript\70 advanced 3D effects
+\VBScript\All Transition Effects
+\VBScript\Background picture
+\VBScript\Convert WAV to WMV
+\VBScript\Double Speed
+\VBScript\Multiple Instances
+\VBScript\Pan And Zoom Effects
+\VBScript\Pan effects for slides
+\VBScript\Replace Audio In Existing Video
+\VBScript\Set Background Music from file
+\VBScript\Set WMV Audio Format
+\VBScript\Simple
+\VBScript\Slide effects (Ease In and Ease Out)
+\VBScript\WebM output
