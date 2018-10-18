@@ -1,11 +1,13 @@
 ## Index of source code examples:
 
+\.NET Core
 \ASP.NET
 \C#
 \C++
 \VB.NET
 \VB6
 \VBScript
+\.NET Core\NetCoreExample
 \ASP.NET\Make Slideshow From Files In Folder (VB)
 \ASP.NET\Make Slideshow From Uploaded Files (VB)
 \ASP.NET\Simple Slideshow (C#)
