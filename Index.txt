@@ -23,6 +23,7 @@
 \C#\Conversion Progress GUI
 \C#\Full Featured Demo
 \C#\Multiple Videos At Once
+\C#\Parallel Processing
 \C#\Registration Free Deployment
 \C#\Replace Audio
 \C#\Set MP3 Audiotrack
@@ -30,6 +31,7 @@
 \C#\Slide Effects
 \C#\Transition Effects
 \C#\WEBM Transition Effects
+\C#\Parallel Processing\images
 \C++\Slideshow-VS2005
 \C++\Slideshow-VS2010
 \C++\WebM Slideshow-VS2005
@@ -44,11 +46,13 @@
 \VB.NET\Conversion Progress GUI
 \VB.NET\Full Featured Demo
 \VB.NET\Multiple Videos At Once
+\VB.NET\Parallel Processing
 \VB.NET\Set MP3 Audiotrack
 \VB.NET\Simple Slideshow
 \VB.NET\Slide Effects
 \VB.NET\Transition Effects
 \VB.NET\WEBM output
+\VB.NET\Parallel Processing\images
 \VB6\Simple
 \VB6\WebM output
 \VBScript\67 standard transition effects
