@@ -5,9 +5,9 @@
 \C#
 \C++
 \VB.NET
-\VB6
 \VBScript
-\.NET Core\NetCoreExample
+\Visual Basic 6
+\.NET Core\Generate Slide Show
 \ASP.NET\Make Slideshow From Files In Folder (VB)
 \ASP.NET\Make Slideshow From Uploaded Files (VB)
 \ASP.NET\Simple Slideshow (C#)
@@ -53,8 +53,6 @@
 \VB.NET\Transition Effects
 \VB.NET\WEBM output
 \VB.NET\Parallel Processing\images
-\VB6\Simple
-\VB6\WebM output
 \VBScript\67 standard transition effects
 \VBScript\70 advanced 3D effects
 \VBScript\All Transition Effects
@@ -70,3 +68,5 @@
 \VBScript\Simple
 \VBScript\Slide effects (Ease In and Ease Out)
 \VBScript\WebM output
+\Visual Basic 6\Generate SlideShow
+\Visual Basic 6\Generate WebM slideshow output
