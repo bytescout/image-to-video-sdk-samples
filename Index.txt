@@ -13,8 +13,8 @@
 \ASP.NET\Simple Slideshow (C#)
 \ASP.NET\Simple Slideshow (VB)
 \C#\2x Speed by Parallel Generation
-\C#\60 standard 2D transition effects
-\C#\70 advanced 3D transition effects
+\C#\60 Standard 2D Transition Effects
+\C#\70 Advanced 3D Transition Effects
 \C#\Add Image From Buffer
 \C#\Background Color
 \C#\Background Picture
@@ -30,14 +30,14 @@
 \C#\Simple Slideshow
 \C#\Slide Effects
 \C#\Transition Effects
-\C#\WEBM Transition Effects
+\C#\WEBM Output
 \C#\Parallel Processing\images
 \C++\Slideshow-VS2005
 \C++\Slideshow-VS2010
 \C++\WebM Slideshow-VS2005
 \VB.NET\2x Speed by Parallel Generation
-\VB.NET\60 standard 2D transition effects
-\VB.NET\70 advanced 3D transition effects
+\VB.NET\60 Standard 2D Transition Effects
+\VB.NET\70 Advanced 3D Transition Effects
 \VB.NET\Add Image From Buffer
 \VB.NET\Background Color
 \VB.NET\Background Picture
@@ -51,22 +51,22 @@
 \VB.NET\Simple Slideshow
 \VB.NET\Slide Effects
 \VB.NET\Transition Effects
-\VB.NET\WEBM output
+\VB.NET\WEBM Output
 \VB.NET\Parallel Processing\images
-\VBScript\67 standard transition effects
-\VBScript\70 advanced 3D effects
+\VBScript\60 Standard Transition Effects
+\VBScript\70 Advanced 3D Effects
 \VBScript\All Transition Effects
-\VBScript\Background picture
+\VBScript\Background Picture
 \VBScript\Convert WAV to WMV
 \VBScript\Double Speed
 \VBScript\Multiple Instances
 \VBScript\Pan And Zoom Effects
-\VBScript\Pan effects for slides
+\VBScript\Pan Effects For Slides
 \VBScript\Replace Audio In Existing Video
 \VBScript\Set Background Music from file
 \VBScript\Set WMV Audio Format
 \VBScript\Simple
-\VBScript\Slide effects (Ease In and Ease Out)
-\VBScript\WebM output
-\Visual Basic 6\Generate SlideShow
-\Visual Basic 6\Generate WebM slideshow output
+\VBScript\Slide Effects (Ease In and Ease Out)
+\VBScript\WebM Output
+\Visual Basic 6\Generate Slideshow
+\Visual Basic 6\Generate WebM Slideshow Output
